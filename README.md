@@ -1,5 +1,6 @@
-# Exercise3-CS0053
+# Exercise 3 - CS0053
 
-*-Ramyl Salazar
-*-Alanis Baguiao
-*-Allen Cruz
+## Members
+- Ramyl Salazar  
+- Alanis Baguiao  
+- Allen Cruz
