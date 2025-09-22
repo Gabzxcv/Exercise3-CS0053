@@ -6,13 +6,13 @@ tasks = []
 
 
 def addtask(task):
-    """Add a task to the task list."""
+    
     tasks.append(task)
     print("task added!")
 
 
 def show_tasks():
-    """Display all tasks in the list."""
+    
     if not tasks:
         print("no tasks yet")
     else:
@@ -21,13 +21,13 @@ def show_tasks():
 
 
 def removetask(tasknumber):
-    """Remove a task from the list by its number."""
+    
     tasks.pop(tasknumber)
     print("task removed!!")
 
 
 def main():
-    """Main function to run the to-do application."""
+   
     while True:
         print("1 Add Task")
         print("2.Show Tasks")
